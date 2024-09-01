@@ -88,10 +88,6 @@ If you would like to test real performance on smarter models before submission, 
 
 A good model to test would be `llama-3-8b-instruct` or `deepseek-coder-6.7b-instruct`.
 
-## Submission Instructions
-
-When finished, please zip this folder and upload the zipfile to this form: https://docs.google.com/forms/d/1COjBZBA5jSxpaLtBZlD-ktAS0LnWbiH4LfyUgzowgpg/edit
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
