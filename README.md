@@ -1,5 +1,10 @@
 # Speculative Edits
 
+# Model_used :
+
+- GPT2
+- deepseek-coder-6.7b-instruct
+
 ## Problem
 
 Your goal is to implement "speculative edits" using pytorch and huggingface with temperature 0 (greedy sampling)
